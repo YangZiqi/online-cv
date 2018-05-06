@@ -25,10 +25,9 @@ montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu
 #sidebar links
 email: 292456895@qq.com
 phone: +86 189 1851 0120
-website: blog.webjeda.com #do not add http://
-linkedin: alandoe
+#website: blog.webjeda.com #do not add http://
+linkedin: Ziqi Yang
 github: YangZiqi
-twitter: '@webjeda'
 #Update all the sections by editing the files inside _data folder.
 
 # uncomment the next line, if you want the education section displayed in main instead of the sidebar
